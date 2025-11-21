@@ -1,0 +1,12 @@
+# Lyra - AI Prompt Optimization Framework
+# No external dependencies required!
+# Lyra uses only Python standard library for maximum compatibility
+
+# Python 3.7+ is required
+# Check your Python version with: python --version
+
+# Optional development dependencies (for testing and development):
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.950
